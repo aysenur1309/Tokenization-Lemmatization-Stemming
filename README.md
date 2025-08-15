@@ -13,9 +13,9 @@ Bu proje, **Doğal Dil İşleme (Natural Language Processing - NLP)** alanında 
 - **Türkçe & İngilizce desteği:** `nltk` ve `snowballstemmer` kullanılarak.
 
  ### Stemming 
-- *Veri Azaltma:* Farklı şekillerde yazılmış kelimelerin köklerine indirgenmesi, veri setinin boyutunu küçültür ve böylece analiz süreçleri hızlanır.
-- *Anlamsal Benzerlik:* Aynı köke sahip kelimeler, anlamsal olarak birbirine yakın olduğu varsayılır. Bu da, daha doğru ve anlamlı sonuçlar elde edilmesini sağlar.
-- *Sınıflandırma ve Kümeleme:* Metin sınıflandırma ve kümeleme gibi işlemlerde, stemming sayesinde benzer anlamlardaki kelimeler bir araya getirilerek daha iyi sonuçlar elde edilir.
+- **Veri Azaltma:** Farklı şekillerde yazılmış kelimelerin köklerine indirgenmesi, veri setinin boyutunu küçültür ve böylece analiz süreçleri hızlanır.
+- **Anlamsal Benzerlik:** Aynı köke sahip kelimeler, anlamsal olarak birbirine yakın olduğu varsayılır. Bu da, daha doğru ve anlamlı sonuçlar elde edilmesini sağlar.
+- **Sınıflandırma ve Kümeleme:** Metin sınıflandırma ve kümeleme gibi işlemlerde, stemming sayesinde benzer anlamlardaki kelimeler bir araya getirilerek daha iyi sonuçlar elde edilir.
 
 
 ---
