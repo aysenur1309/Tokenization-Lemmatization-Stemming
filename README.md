@@ -18,13 +18,16 @@ Bu proje, **Doğal Dil İşleme (Natural Language Processing - NLP)** alanında 
 - **Sınıflandırma ve Kümeleme:** Metin sınıflandırma ve kümeleme gibi işlemlerde, stemming sayesinde benzer anlamlardaki kelimeler bir araya getirilerek daha iyi sonuçlar elde edilir.
 
 
-  ### Lemmatization
+### Lemmatization
 - **Anlam Birliği:** Farklı biçimlerde yazılmış aynı kökten gelen kelimeler, lemmatizasyon sayesinde tek bir kelime olarak kabul edilir. Bu sayede, metin analizlerinde daha doğru ve anlamlı sonuçlar elde edilir.
 - **Veri Azaltma:** Farklı biçimdeki kelimelerin tek bir köke indirgenmesi, veri setinin boyutunu küçültür ve böylece analiz süreçleri hızlanır.
 - **Sınıflandırma ve Kümeleme:** Metin sınıflandırma ve kümeleme gibi işlemlerde, lemmatizasyon sayesinde benzer anlamlardaki kelimeler bir araya getirilerek daha iyi sonuçlar elde edilir.
 
 
-
+### Stopwords
+- **Gürültüyü Azaltma:** Metin analizlerinde, stop words gibi sık kullanılan kelimeler, analiz sonuçlarını gürültüleyebilir. Bu kelimeleri çıkararak, daha önemli kelimelerin öne çıkması sağlanır.
+- **Veri Azaltma:** Stop words, metinlerde sıkça tekrarladığı için, bu kelimeleri çıkararak veri boyutunu küçültmek ve analiz süreçlerini hızlandırmak mümkündür.
+- **Odaklanmayı Artırma:** Stop words'leri çıkararak, analiz daha önemli kelimeler ve onların arasındaki ilişkiler üzerine yoğunlaşır.
 
 ---
 
